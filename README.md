@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/enyucyber/sth)
-  - [DDoS Defense Simulation Lab](https://github.com/enyucyber/DDoS)
+  - [DDoS Defense Simulation Lab](https://github.com/enyucyber/DDoS_Defense)
 
 <h2>📃 Certifications:</h2>
 
