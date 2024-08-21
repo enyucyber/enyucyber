@@ -7,7 +7,7 @@
 
 <h2>Certifications:</h2>
 
-  - [Comptia Security+](https://www.credly.com/badges/d16b84c3-77a6-4c63-b060-c98904a9e61d/linked_in_profile)
+  - [CompTIA Security+](https://www.credly.com/badges/d16b84c3-77a6-4c63-b060-c98904a9e61d/linked_in_profile)
   - [Google Cybersecurity Professional Certificate](https://coursera.org/share/21865c888cadab1ed1b01225a84ba66a)
   
 
