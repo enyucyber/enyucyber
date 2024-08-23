@@ -4,6 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/enyucyber/Active-Directory-Home-Lab)
   - [DDoS Defense Simulation Lab](https://github.com/enyucyber/DDoS_Defense)
+  - [Building LLMs for detecting fake news](https://github.com/enyucyber/Building-LLMs-for-detecting-fake-news)
 
 <h2>📃 Certifications:</h2>
 
