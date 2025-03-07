@@ -7,8 +7,8 @@
   - [Building LLMs for detecting fake news](https://github.com/enyucyber/Building-LLMs-for-detecting-fake-news)
 
 <h2>📃 Certifications:</h2>
-
-  - [CompTIA Security+](https://www.credly.com/badges/d16b84c3-77a6-4c63-b060-c98904a9e61d/linked_in_profile)
+  - [CompTIA CySA+ ce](https://www.credly.com/badges/2cf25f03-3676-4b18-abeb-ce7c6cde783e/linked_in_profile)
+  - [CompTIA Security+ ce](https://www.credly.com/badges/d16b84c3-77a6-4c63-b060-c98904a9e61d/linked_in_profile)
   - [Google Cybersecurity Professional Certificate](https://coursera.org/share/21865c888cadab1ed1b01225a84ba66a)
   
 
